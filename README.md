@@ -1,11 +1,5 @@
 # Data Portfolio: Excel to Power BI 
 
-
-![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
-
-
-
-
 # Table of contents 
 
 - [Objective](#objective)
@@ -115,12 +109,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 2. Treemap
 3. Scorecards
 4. Horizontal bar chart 
-
-
-
-
-![Dashboard-Mockup](assets/images/dashboard_mockup.png)
-
 
 ## Tools 
 
@@ -274,9 +262,6 @@ FROM
 
 ```
 
-![Row count check](assets/images/1_row_count_check.png)
-
-
 
 ## Column count check
 ### SQL query 
@@ -294,8 +279,6 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 ### Output 
-![Column count check](assets/images/2_column_count_check.png)
-
 
 
 ## Data type check
@@ -315,8 +298,6 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 ### Output
-![Data type check](assets/images/3_data_type_check.png)
-
 
 ## Duplicate count check
 ### SQL query 
@@ -343,8 +324,6 @@ HAVING
     COUNT(*) > 1;
 ```
 ### Output
-![Duplicate count check](assets/images/4_duplicate_records_check.png)
-
 # Visualization 
 
 
@@ -352,7 +331,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+![GIF of Power BI Dashboard](assets/images/PowerBIdashboard.png)
 
 This shows the Top UK Youtubers in 2024 so far. 
 
