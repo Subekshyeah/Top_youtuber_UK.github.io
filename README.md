@@ -427,18 +427,17 @@ Here are the key questions we need to answer for our marketing client:
 
 ### 1. Who are the top 10 YouTubers with the most subscribers?
 
-| Rank | Channel Name         | Subscribers (M) |
-|------|----------------------|-----------------|
-| 1    | NoCopyrightSounds    | 33.60           |
-| 2    | DanTDM               | 28.60           |
-| 3    | Dan Rhodes           | 26.50           |
-| 4    | Miss Katy            | 24.50           |
-| 5    | Mister Max           | 24.40           |
-| 6    | KSI                  | 24.10           |
-| 7    | Jelly                | 23.50           |
-| 8    | Dua Lipa             | 23.30           |
-| 9    | Sidemen              | 21.00           |
-| 10   | Ali-A                | 18.90           |
+Rank,Channel Name,Subscribers (M),Original Rank
+1,NoCopyrightSounds,34.10,1
+2,DanTDM,29.20,2
+3,Dan Rhodes,26.60,3
+4,Miss Katy,25.50,4
+5,Mister Max,25.10,5
+6,KSI Music,25.00,6
+7,Dua Lipa,24.40,8
+8,Jelly,23.40,7
+9,Ali-A,19.70,10
+10,Sidemen,18.60,9
 
 
 ### 2. Which 3 channels have uploaded the most videos?
